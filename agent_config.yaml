@@ -1,0 +1,47 @@
+my_agent:
+  agent_id: "6dfed384-5096-49cf-beeb-faa81bd861d0"
+  api_key: "band_a_1781635055_KC5CPv5HbL4TjgI00wMJaM_bGQlTDyt5"
+
+erp_validator:
+  agent_id: "bc630619-8cc0-4466-8c5a-3c0f034ee59c"
+  api_key: "band_a_1781774050_MvYMgoUh6cl9By1M2fzRzJIsfv9GI9Bf"
+
+data_normalizer:
+  agent_id: "03d96188-8bb1-4b27-9733-817c822d7427"
+  api_key: "band_a_1781719157_wRURJTqpNXAsI-l0827H5oeOOPIO7BuZ"  
+
+router:
+  agent_id: "f37dadfb-0101-453f-a89d-dc3a7319a0dc"
+  api_key: "band_a_1781720014_F5nTidZbIvke_aVOOOlx66nyzDkIfK2Q"  
+
+road:
+  agent_id: "4d11c33a-9c9f-4e8c-9cec-93f4d4045517"
+  api_key: "band_a_1781720429_e0fdoyqXU6PshnvsR6m8ncmhNPtRIEpl"  
+
+rail:
+  agent_id: "07615ddf-de9e-4fa4-b385-ef65e0ab6b79"
+  api_key: "band_a_1781720605_0EpPyngpnqke7Tyai5vhEa_zjRnm9Xxv"  
+
+port:
+  agent_id: "14caea4b-52cb-4c64-a596-84f52f929f48"
+  api_key: "band_a_1781720647__zL5plkp7OoeOSlUD97iWHBY7cH4idRn"        
+
+inventory:
+  agent_id: "cf20ef15-587b-45d0-928b-2d46e1bb093d"
+  api_key: "band_a_1781765509_E8963N5kSNBpEPV9jPCthqjvOVzrqJai"
+
+demurrage:
+  agent_id: "239ad4ef-e26c-45e7-8963-91119fa82512"
+  api_key: "band_a_1781765560_p4uCBmc_vs1EfGWmyzZScgWlkJSd9-QW"
+
+constraint:
+  agent_id: "e52e12d8-b048-479e-b9cc-5e232fb587af"
+  api_key: "band_a_1781765614_XBm4QkhcZ6KeuceA11Wmbppxd9mNtVzG"
+
+exception:
+  agent_id: "95826b42-4e8b-42a8-9492-513045be9fca"
+  api_key: "band_a_1781765702_8cshOLk_tG7f9wTLbFDpIeUN4a_T_A3y"
+
+scenario:
+  agent_id: "3af81398-fc8b-4482-bc40-39ff71b6b7c0"
+  api_key: "band_a_1781765742_AMq2Vro5rvaTTjXoTaReo0Owue5WK2RR"
